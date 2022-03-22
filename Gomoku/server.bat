@@ -1,0 +1,1 @@
+java -cp "common/target/common-0.0.1-SNAPSHOT.jar;server/target/server-0.0.1-SNAPSHOT.jar" gomoku.server.Server

@@ -1,0 +1,1 @@
+start rmiregistry -J-Djava.rmi.server.codebase=file:common/target/common-0.0.1-SNAPSHOT.jar
