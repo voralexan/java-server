@@ -1,3 +1,4 @@
-# java-server
-1. RMI GOMOKU
+#  Репозиторий курса: Технология распределённой обработки java.
+Выполненные работы
+1. GOMOKU RMI
 2. Barber gRPC 
